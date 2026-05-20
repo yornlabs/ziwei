@@ -1,5 +1,3 @@
-# 紫微知道
-
 <p align="center">
   <img width="820" alt="紫微知道" src="./docs/assets/logo.svg" />
 </p>
